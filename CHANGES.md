@@ -3,6 +3,8 @@
 ## unknown
 
   * Added `setClientMessageEvent'` (#71)
+  * Fixed type of `xrrUpdateConfiguration`
+  * Fixed bottom when deserializing XRRNotifyEvent in `getEvent`
 
 ## 1.9.2 (2020-08-25)
 
